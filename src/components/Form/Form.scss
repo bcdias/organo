@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+    &__container{
+        background-color: #f2f2f2;
+        border-radius: 20px;
+        box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+        margin: 56px 0;
+        max-width: 80%;
+        padding: 32px 48px;
+    }
+}
